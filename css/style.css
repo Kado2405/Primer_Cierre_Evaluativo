@@ -1,0 +1,33 @@
+.hola {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+  }
+  .heroe {
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    margin-bottom: 20px;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+  }
+  .heroe img {
+    max-width: 150px;
+    margin-right: 20px;
+    border-radius: 8px;
+  }
+  .info {
+    flex: 1;
+  }
+  .info h2 {
+    margin: 0 0 10px;
+  }
+  .info p {
+    margin: 5px 0;
+  }
+  .info ul {
+    margin: 5px 0;
+    padding-left: 20px;
+  }
